@@ -38,7 +38,7 @@ const App = () => {
     id: 4,
     image: "https://wsrv.nl/?w=560&url=https://cdn2.blanxer.com/uploads/693e481542c36b29ab709e5d/product_image-screenshot-2026-01-06-at-120217-8102.webp",
     Name: "NEPAL CRICKET WORLD CUP AUTHENTIC FANS JERSEY",
-    Rating: "⭐2.9",
+    Rating: "⭐2.96",
     Price: "Rs3499",
   },]
 
